@@ -1,0 +1,8 @@
+exports.sections = [{
+    destinations: ['RIX', 'VNO'],
+    departures: ['OPO', 'FAO', 'LIS', 'SVQ', 'XRY'],
+//    destinations: ['OPO', 'FAO', 'AGP'],
+    date: '17.8.2014'
+}];
+
+
